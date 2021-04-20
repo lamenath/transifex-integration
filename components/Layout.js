@@ -22,6 +22,8 @@ const Layout = ({
         defer
         src={`https://static.cdn.prismic.io/prismic.js?new=true&repo=${prismicRepoName}`}
       />
+      <script type="text/javascript">window.liveSettings={api_key:"24ca16a7e1684183984eef8a8be339de"}</script>
+<script type="text/javascript" src="//cdn.transifex.com/live.js"></script>
     </Head>
     <Header
       altLangs={altLangs}
